@@ -1,5 +1,5 @@
-<h1 align="center">Hi there👋, I'm Aulia Jasifa Br Ginting</h1>
-<h3 align="center">Software Engineering Student | @ Telkom University Purwokerto</h3> | GPA 3.84 </h3>
+<h1 align="center">Hi 👋, I'm Aulia</h1>
+<h3 align="center">Software Engineering Student | Final Year @ Telkom University Purwokerto | GPA 3.84</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aulia-jasifa-br-ginting-6557843a4/" target="_blank">
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 **Software Engineering** student at **Telkom University Purwokerto**
+- 🎓 Final-year **Software Engineering** student at **Telkom University Purwokerto**
 - 🛠️ Building real-world projects: **Parkirin** (Smart Parking Management System, microservices) & **TPQSmart** (digital attendance & Quran learning monitoring app, Laravel)
 - 🧪 Coursework covering software testing, operating systems, machine learning in production, and formal methods
 - 🌱 Currently sharpening skills in full-stack development & software engineering practices
@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,html,js,php,c++,css,aravel,kotlin,bootstrap,react,mysql,postgres,figma,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,laravel,react,mysql,postgres,figma,git,github,docker" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 📌 Featured Projects
 - **[Parkirin](https://github.com/zclimaxsp/Parkirin)** — Smart Parking Management System built with microservices architecture
-- **[TPQSmart](https://github.com/zclimaxsp/TPQsmart)** — Digital attendance & monitoring app for Quranic learning centers (Laravel)
+- **[TPQSmart](https://github.com/zclimaxsp/TPQsmar)** — Digital attendance & monitoring app for Quranic learning centers (Laravel)
 
 ---
 
