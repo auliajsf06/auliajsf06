@@ -1,11 +1,11 @@
 <h1 align="center">Hi there👋, I'm Aulia Jasifa Br Ginting</h1>
-<h3 align="center">Software Engineering Student | Final Year @ Telkom University Purwokerto</h3>
+<h3 align="center">Software Engineering Student | @ Telkom University Purwokerto</h3> | GPA 3.84
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/GANTI-USERNAME-LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/aulia-jasifa-br-ginting-6557843a4/" target="_blank">
     <img src="https://img.shields.io/badge/LINKEDIN-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:GANTI-EMAIL@gmail.com">
+  <a href="mailto:GANTI-auliajasifa24@gmail.com">
     <img src="https://img.shields.io/badge/GMAIL-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
@@ -13,7 +13,7 @@
 ---
 
 ### 🚀 About Me
-- 🎓 Final-year **Software Engineering** student at **Telkom University Purwokerto**
+- 🎓 **Software Engineering** student at **Telkom University Purwokerto**
 - 🛠️ Building real-world projects: **Parkirin** (Smart Parking Management System, microservices) & **TPQSmart** (digital attendance & Quran learning monitoring app, Laravel)
 - 🧪 Coursework covering software testing, operating systems, machine learning in production, and formal methods
 - 🌱 Currently sharpening skills in full-stack development & software engineering practices
@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,laravel,react,mysql,postgres,figma,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,html,js,php,c++,css,aravel,kotlin,bootstrap,react,mysql,postgres,figma,git,github,docker" />
 </p>
 
 ---
@@ -42,7 +42,7 @@
 
 ### 📌 Featured Projects
 - **[Parkirin](https://github.com/zclimaxsp/Parkirin)** — Smart Parking Management System built with microservices architecture
-- **[TPQSmart](https://github.com/auliajsf06/GANTI-NAMA-REPO)** — Digital attendance & monitoring app for Quranic learning centers (Laravel)
+- **[TPQSmart](https://github.com/zclimaxsp/TPQsmart)** — Digital attendance & monitoring app for Quranic learning centers (Laravel)
 
 ---
 
