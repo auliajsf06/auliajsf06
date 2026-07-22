@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aulia</h1>
+<h1 align="center">Hi there👋, I'm Aulia Jasifa Br Ginting</h1>
 <h3 align="center">Software Engineering Student | @ Telkom University Purwokerto | GPA 3.84</h3>
 
 <p align="center">
