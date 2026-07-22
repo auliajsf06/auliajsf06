@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aulia</h1>
-<h3 align="center">Software Engineering Student | Final Year @ Telkom University Purwokerto | GPA 3.84</h3>
+<h3 align="center">Software Engineering Student | @ Telkom University Purwokerto | GPA 3.84</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/aulia-jasifa-br-ginting-6557843a4/" target="_blank">
