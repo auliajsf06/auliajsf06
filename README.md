@@ -23,7 +23,7 @@
 
 ### 🧰 Tech Stack & Tools
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,c++,css,laravel,react,mysql,postgres,figma,git,github,docker" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,php,html,css,laravel,react,mysql,postgres,figma,git,github,docker" />
 </p>
 
 ---
